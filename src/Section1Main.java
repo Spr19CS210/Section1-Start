@@ -1,4 +1,4 @@
-public class Section1 {
+public class Section1Main {
     static public void main(String[] args) {
     }
 }
